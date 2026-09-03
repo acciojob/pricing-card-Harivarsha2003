@@ -17,7 +17,8 @@ div{
 	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 img{
-	margin:0 auto;margin:30px 30px 20px 75px
+	width:350px;
+	margin:30px 30px 20px 75px;
 }
 h1{
 	text-align:center;
